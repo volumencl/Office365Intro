@@ -688,21 +688,27 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sb8EGad6It {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/header-office-366.png");
+.cid-sbxoWTCALu {
+  padding-top: 6rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
 }
-.cid-sb8EGad6It .mbr-text,
-.cid-sb8EGad6It .mbr-section-btn {
-  color: #000000;
+.cid-sbxoWTCALu .row {
+  align-items: center;
 }
-.cid-sb8EGad6It .mbr-section-title {
-  color: #000000;
+@media (max-width: 991px) {
+  .cid-sbxoWTCALu .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sbxoWTCALu .text-wrapper {
+    padding: 0 2rem;
+  }
 }
 .cid-sb8TefSfVc {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 3rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-sb8TefSfVc .video-wrapper iframe {
@@ -728,23 +734,46 @@ a {
   text-align: center;
 }
 .cid-sb8LUn47Ff {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
+  padding-top: 3rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-sb8LUn47Ff .mbr-section-title {
   text-align: center;
 }
-.cid-sb8MWJd0B1 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/header-onedrive-6.png");
+.cid-sbxpCrBDYM {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
 }
-.cid-sb8UPgC80e {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/header-teams-5.png");
+.cid-sbxpCrBDYM .row {
+  align-items: center;
 }
-.cid-sb8UPgC80e .mbr-section-title {
-  text-align: center;
+@media (max-width: 991px) {
+  .cid-sbxpCrBDYM .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sbxpCrBDYM .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-sbxpCNZ3Ga {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-sbxpCNZ3Ga .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-sbxpCNZ3Ga .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sbxpCNZ3Ga .text-wrapper {
+    padding: 0 2rem;
+  }
 }
