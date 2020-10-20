@@ -706,6 +706,13 @@ a {
     padding: 0 2rem;
   }
 }
+.cid-sbxoWTCALu .mbr-section-title {
+  text-align: left;
+}
+.cid-sbxoWTCALu .mbr-text,
+.cid-sbxoWTCALu .mbr-section-btn {
+  text-align: left;
+}
 .cid-sb8TefSfVc {
   padding-top: 3rem;
   padding-bottom: 1rem;
@@ -728,10 +735,10 @@ a {
   }
 }
 .cid-sb8TefSfVc .mbr-text {
-  text-align: center;
+  text-align: left;
 }
 .cid-sb8TefSfVc .mbr-section-title {
-  text-align: right;
+  text-align: center;
 }
 .cid-sdXWmWYuBj {
   padding-top: 2rem;
@@ -751,6 +758,13 @@ a {
     padding: 0 2rem;
   }
 }
+.cid-sdXWmWYuBj .mbr-section-title {
+  text-align: left;
+}
+.cid-sdXWmWYuBj .mbr-text,
+.cid-sdXWmWYuBj .mbr-section-btn {
+  text-align: left;
+}
 .cid-sbxpCrBDYM {
   padding-top: 2rem;
   padding-bottom: 1rem;
@@ -769,6 +783,13 @@ a {
     padding: 0 2rem;
   }
 }
+.cid-sbxpCrBDYM .mbr-section-title {
+  text-align: left;
+}
+.cid-sbxpCrBDYM .mbr-text,
+.cid-sbxpCrBDYM .mbr-section-btn {
+  text-align: left;
+}
 .cid-sbxpCNZ3Ga {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -786,4 +807,11 @@ a {
   .cid-sbxpCNZ3Ga .text-wrapper {
     padding: 0 2rem;
   }
+}
+.cid-sbxpCNZ3Ga .mbr-section-title {
+  text-align: left;
+}
+.cid-sbxpCNZ3Ga .mbr-text,
+.cid-sbxpCNZ3Ga .mbr-section-btn {
+  text-align: left;
 }
