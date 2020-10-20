@@ -731,15 +731,25 @@ a {
   text-align: center;
 }
 .cid-sb8TefSfVc .mbr-section-title {
-  text-align: center;
+  text-align: right;
 }
-.cid-sb8LUn47Ff {
-  padding-top: 3rem;
+.cid-sdXWmWYuBj {
+  padding-top: 2rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
-.cid-sb8LUn47Ff .mbr-section-title {
-  text-align: center;
+.cid-sdXWmWYuBj .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-sdXWmWYuBj .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sdXWmWYuBj .text-wrapper {
+    padding: 0 2rem;
+  }
 }
 .cid-sbxpCrBDYM {
   padding-top: 2rem;
